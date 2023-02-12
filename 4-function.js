@@ -4,4 +4,4 @@ const call = (name) => {
 const call2 = (name) => {
   console.log(`Hello  ${name}`);
 };
-module.exports = {call(), call2()};
+module.exports = { call, call2 };

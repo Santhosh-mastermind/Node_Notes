@@ -3,4 +3,4 @@ const list = {
   name: "santhosh",
   age: 23,
 };
-module.exports.l = list;
+module.exports.li = list;

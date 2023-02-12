@@ -6,3 +6,4 @@ fun.call("santhosh");
 fun.call(names.dee);
 fun.call(names.san);
 console.log(data);
+console.log(fun);
